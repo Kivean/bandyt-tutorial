@@ -36,4 +36,5 @@ optimized routines available.
 **Workflow Example**
 
 The example for single residue-based approach of analysis of MD trajectories was provided in:
-*BaNDyT-single-residue-based-approach-tutorial.ipynb
+
+* BaNDyT-single-residue-based-approach-tutorial.ipynb
