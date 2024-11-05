@@ -2,7 +2,7 @@
 
 A series of tutorials for the application of BaNDyT: Bayesian Network analisis of Molecular Dynamic simulation trajectories. 
 
-The python module can be requested by email from: Sergio Branciamore (sbranciamore@coh.org) or Andrei Rodin (arodin@coh.org).
+The python module can be found here: https://github.com/bandyt-group/bandyt
 
 This tutorial was prepared and released along with the publication: <insert link to publication here>
 
