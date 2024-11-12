@@ -19,6 +19,8 @@ pip install pydot
 pip install igraph
 ```
 
+Optional (recommended): for built-in graph visualization in PDF format, graphviz is required.
+
 **Installation**
 
 No particular installation procedure is necessary. However to enable faster compute routines compilation of cpp source in the folder containing this project
